@@ -5,6 +5,9 @@ public class GameManager : MonoBehaviour
 {
     public float restartDelay = 2f;
     public GameObject completeLevelUI;
+    public GameObject pauseScreen;
+
+    public bool paused = false;
 
     private bool gameHasEnded = false;
 
@@ -19,6 +22,25 @@ public class GameManager : MonoBehaviour
     public void CompleteLevel()
     {
         completeLevelUI.SetActive(true);
+    }
+
+    private void setPause(bool desiredPause)
+    {
+        if (desiredPause)
+        {
+            paused = true;
+            Time.timeScale = 0;
+        }
+        else
+        {
+            paused = false;
+            Time.timeScale = 1;
+        }
+    }
+    public void togglePause()
+    {
+        setPause(!paused);
+        pauseScreen.SetActive(paused);
     }
 
     private void Restart()

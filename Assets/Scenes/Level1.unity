@@ -363,6 +363,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+--- !u!1 &569403303 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4842123414494873957, guid: f0207f07fbca6b340b846d9178be9c67, type: 3}
+  m_PrefabInstance: {fileID: 3664827284722647813}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &590753556
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1280,6 +1285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameManager
       objectReference: {fileID: 0}
+    - target: {fileID: 1482636095947270006, guid: 7a80afea7a426604fb93e17ed419e07b, type: 3}
+      propertyPath: pauseScreen
+      value: 
+      objectReference: {fileID: 569403303}
     - target: {fileID: 1482636095947270006, guid: 7a80afea7a426604fb93e17ed419e07b, type: 3}
       propertyPath: completeLevelUI
       value: 
