@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5150844843336385558}
   - component: {fileID: 776208299068231908}
   - component: {fileID: 9014831461010661810}
+  - component: {fileID: 9062915140099309087}
   m_Layer: 3
   m_Name: Obstacle
   m_TagString: Obstacle
@@ -112,3 +113,23 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!114 &9062915140099309087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6389946955277580699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2bd3634913fa03499d0602dc36eb37f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seekOrFlee: 0
+  speed: 7
+  accel: 0.3
+  seekDistance: 30
+  fleeDistance: 10
+  obstacleMat: {fileID: 2100000, guid: 31352d35912bd844989f4bfd0d37a094, type: 2}
+  seekColor: {r: 1, g: 0.53342324, b: 0, a: 0}
+  fleeColor: {r: 1, g: 0, b: 0.9514904, a: 0}

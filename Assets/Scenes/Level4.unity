@@ -235,6 +235,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (167)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &28594844
@@ -405,6 +417,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -691,6 +715,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (152)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &151969907
@@ -748,6 +784,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (160)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &170230136
@@ -804,6 +852,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (189)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -1033,6 +1093,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (263)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &207695724
@@ -1089,6 +1161,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (234)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -1147,6 +1231,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (180)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &225509857
@@ -1203,6 +1299,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (260)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -1318,6 +1426,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (243)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &234928631
@@ -1374,6 +1494,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (168)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -1603,6 +1735,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (244)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &299456066
@@ -1660,6 +1804,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (266)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &302120542
@@ -1716,6 +1872,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -1888,6 +2048,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &312661119
@@ -2002,6 +2166,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (126)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &330668627
@@ -2058,6 +2234,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -2116,6 +2296,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (161)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &350048827
@@ -2172,6 +2364,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (185)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -2287,6 +2491,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (257)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &366834622
@@ -2343,6 +2559,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (228)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -2458,6 +2686,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (230)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &381236104
@@ -2514,6 +2758,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (197)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -2686,6 +2934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &390621466
@@ -2742,6 +2994,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (186)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -2857,6 +3121,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (173)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &406563068
@@ -2971,6 +3247,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (262)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &425980502
@@ -3027,6 +3315,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (177)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -3142,6 +3442,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &446618516
@@ -3198,6 +3510,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (137)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -3256,6 +3580,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (193)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &457926815
@@ -3312,6 +3648,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (268)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -3427,6 +3775,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (251)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &480509473
@@ -3483,6 +3847,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (164)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -3598,6 +3974,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (176)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &541355385
@@ -3654,6 +4042,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (250)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -3826,6 +4226,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (187)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &572971350
@@ -3883,6 +4295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &584221787
@@ -3939,6 +4355,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (188)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -4282,6 +4710,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (261)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &639362404
@@ -4339,6 +4779,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (181)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &644981649
@@ -4395,6 +4847,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (133)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -4690,6 +5154,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (258)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1 &705507993
@@ -4897,6 +5373,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (252)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &747771874
@@ -4953,6 +5441,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -5125,6 +5617,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (220)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &755769396
@@ -5239,6 +5735,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &764638682
@@ -5352,6 +5852,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (144)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -5581,6 +6093,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (273)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &804692884
@@ -5695,6 +6223,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (253)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &829683677
@@ -5752,6 +6292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (102)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &842518278
@@ -5808,6 +6352,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (125)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -5923,6 +6479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (203)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &871140887
@@ -6036,6 +6596,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (239)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -6208,6 +6780,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (242)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &898957820
@@ -6264,6 +6848,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (116)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -6493,6 +7089,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (196)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1 &928807502 stripped
@@ -6669,6 +7269,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (241)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &955762853
@@ -6783,6 +7399,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (156)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &968170270
@@ -6839,6 +7467,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (154)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -7011,6 +7651,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &997980932
@@ -7124,6 +7776,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (166)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -7239,6 +7903,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (264)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1022172275
@@ -7296,6 +7972,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (249)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1023178402
@@ -7352,6 +8040,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -7467,6 +8159,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (254)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1070891626
@@ -7580,6 +8284,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (165)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -7752,6 +8468,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (222)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1113973570
@@ -7923,6 +8651,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (158)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1134765412
@@ -7979,6 +8719,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -8093,6 +8837,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (226)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -8270,6 +9026,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1194455000
@@ -8441,6 +9201,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (132)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1210460287
@@ -8497,6 +9269,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (169)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -8612,6 +9396,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (232)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1232505444
@@ -8668,6 +9464,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -8840,6 +9640,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (246)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1301154468
@@ -8896,6 +9708,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (272)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -9125,6 +9949,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1326128760
@@ -9182,6 +10010,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (267)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1339136585
@@ -9238,6 +10078,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (265)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -9410,6 +10262,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1389853155
@@ -9524,6 +10380,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (182)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1399041982
@@ -9637,6 +10497,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (199)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -10037,6 +10901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1463665310
@@ -10094,6 +10962,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (119)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1465740243
@@ -10150,6 +11030,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (124)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -10436,6 +11328,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (141)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!114 &1484995238 stripped
@@ -10504,6 +11408,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (238)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1486682349
@@ -10560,6 +11476,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (235)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -10675,6 +11603,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1526171430
@@ -10731,6 +11663,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (229)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -10789,6 +11733,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (271)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1542538867
@@ -10845,6 +11801,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (210)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -10903,6 +11863,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (175)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1552473718
@@ -10959,6 +11931,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (255)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -11017,6 +12001,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (248)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1558220509
@@ -11073,6 +12069,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -11416,6 +12416,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (159)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1618323400
@@ -11472,6 +12484,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (136)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -11530,6 +12554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (216)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1624968183
@@ -11586,6 +12614,22 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (274)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -11815,6 +12859,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (127)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1649984707
@@ -11871,6 +12927,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (269)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -11929,6 +12997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1659556999
@@ -11985,6 +13057,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (247)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -12100,6 +13184,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (259)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1670023279
@@ -12156,6 +13252,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (146)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -12214,6 +13322,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (118)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1689141935
@@ -12270,6 +13390,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (147)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -12328,6 +13460,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (145)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1711258026
@@ -12385,6 +13529,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1711681488
@@ -12441,6 +13597,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (153)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -12613,6 +13781,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (221)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1739274596
@@ -12669,6 +13853,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (212)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -12784,6 +13972,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1763850442
@@ -12897,6 +14089,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (231)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -13012,6 +14216,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (174)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1801429529
@@ -13069,6 +14285,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (148)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1802868159
@@ -13125,6 +14353,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (224)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -13240,6 +14480,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (237)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1813045316
@@ -13296,6 +14548,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (240)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -13411,6 +14675,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (245)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1839170712
@@ -13467,6 +14743,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (149)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -13525,6 +14813,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (157)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1863821575
@@ -13581,6 +14881,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (225)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -13696,6 +15008,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (117)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1880382641
@@ -13810,6 +15134,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (227)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1886565951
@@ -13866,6 +15202,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (184)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -13924,6 +15272,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (172)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1899853347
@@ -13981,6 +15341,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (120)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &1902259163
@@ -14037,6 +15409,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (140)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -14266,6 +15650,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (190)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1 &1945401130
@@ -14417,6 +15813,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (236)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -14589,6 +15997,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (270)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &2008344262
@@ -14759,6 +16179,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (223)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -14988,6 +16420,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (233)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &2088730964
@@ -15045,6 +16489,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (191)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &2091167069
@@ -15101,6 +16557,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (139)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -15231,7 +16699,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1694392228857287152, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.15
+      value: -6.61
       objectReference: {fileID: 0}
     - target: {fileID: 1694392228857287152, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15272,6 +16740,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -15444,6 +16916,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (192)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &2135765501
@@ -15500,6 +16984,10 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (207)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: seekOrFlee
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
@@ -15558,6 +17046,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (155)
       objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
 --- !u!1001 &2146195880
@@ -15614,6 +17114,18 @@ PrefabInstance:
     - target: {fileID: 6389946955277580699, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
       propertyPath: m_Name
       value: Obstacle (256)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: accel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062915140099309087, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
+      propertyPath: fleeDistance
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3870e35e0f0139645a416cbc899ff090, type: 3}
